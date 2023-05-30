@@ -24,3 +24,4 @@ It has 15 classification
  
  18580 images were used for Training the model and 2058 were used for validation.
  
+ Pre trained model/weights :  https://drive.google.com/drive/folders/1sIuJ-l43dIrRlzZ7FXk87_X_S_Rv4vMR?usp=sharing
